@@ -1,8 +1,8 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Anirudh Emmadi, people call me Ani, a recent computer science graduate from [The University of Texas at Dallas](https://utdallas.edu/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I am Rithvik Ronaldo, a student pursuing Msc in Software Systems from [PSG TECH](https://www.psgtech.edu/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rithvikronaldo/)](https://www.linkedin.com/in/rithvikronaldo/)
+[![Linkedin Badge](https://img.shields.io/badge/-rithvikronaldo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rithvikronaldo/)](https://www.linkedin.com/in/rithvikronaldo/)
 
 ## ⚡ Technologies
 
