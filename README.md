@@ -3,6 +3,7 @@
 I am Rithvik Ronaldo, a student pursuing Msc in Software Systems from [PSG TECH](https://www.psgtech.edu/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-rithvikronaldo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rithvikronaldo/)](https://www.linkedin.com/in/rithvikronaldo/)
+[![Gmail Badge](https://img.shields.io/badge/-rithvikronaldo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rithvikronaldo@gmail.com)](mailto:rithvikronaldo@gmail.com)
 
 ## ⚡ Technologies
 
