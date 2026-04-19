@@ -1,17 +1,10 @@
-<h1 align="center">Rithvik Ronaldo</h1>
+# Rithvik Ronaldo
 
-<p align="center">
-  Full-stack engineer building multi-tenant HR-tech SaaS (Go + React)
-</p>
+Full-stack engineer building multi-tenant HR-tech SaaS (Go + React)
 
-<p align="center">
-  Backend: succession planning · RBAC · grid orchestration · ML infra
-</p>
+Backend: succession planning · RBAC · grid orchestration · ML infra
 
-<p align="center">
-  Building <a href="https://github.com/rithvikronaldo/stayfair">stayfair</a> · Writing at <a href="https://rithvikronaldo.dev">rithvikronaldo.dev</a>
-</p>
+Currently building: [stayfair](https://github.com/rithvikronaldo/stayfair)  
+Writing: [rithvikronaldo.dev](https://rithvikronaldo.dev)  
 
-<p align="center">
-  hi@rithvikronaldo.dev · Coimbatore, India
-</p>
+hi@rithvikronaldo.dev · Coimbatore, India
