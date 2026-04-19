@@ -1,6 +1,6 @@
 # Rithvik Ronaldo                                                                                    
                                                             
-Full-stack engineer at Trainery — a multi-tenant HR-tech SaaS built in Go + React.
+Full-stack engineer at TraineryHCM, a multi-tenant HR-tech SaaS built in Go + React.
                                           
 I work on backend services: succession planning, RBAC, grid orchestration, and ML integration architecture.                                                                                                                                                                                       
 **Currently building:** a double-entry ledger API with a live marketplace demo on top — see          
