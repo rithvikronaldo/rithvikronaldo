@@ -1,13 +1,17 @@
-# Rithvik Ronaldo                                                                                    
-                                                            
-Full-stack engineer at TraineryHCM, a multi-tenant HR-tech SaaS built in Go + React.
-                                          
-I work on backend services: succession planning, RBAC, grid orchestration, and ML integration architecture.                                                                                                                                                                                       
-**Currently building:** a double-entry ledger API with a live marketplace demo on top — see          
-[stayfair](https://github.com/rithvikronaldo/stayfair).   
-                                                                                                       
-**Writing:** [rithvikronaldo.dev](https://rithvikronaldo.dev) — fintech infrastructure, Postgres patterns, Go + React.                   
-                                                                                                       
-**Reach me:** hi@rithvikronaldo.dev                                                                  
-                                          
-📍 Coimbatore, India 
+<h1 align="center">Rithvik Ronaldo</h1>
+
+<p align="center">
+  Full-stack engineer building multi-tenant HR-tech SaaS (Go + React)
+</p>
+
+<p align="center">
+  Backend: succession planning · RBAC · grid orchestration · ML infra
+</p>
+
+<p align="center">
+  Building <a href="https://github.com/rithvikronaldo/stayfair">stayfair</a> · Writing at <a href="https://rithvikronaldo.dev">rithvikronaldo.dev</a>
+</p>
+
+<p align="center">
+  hi@rithvikronaldo.dev · Coimbatore, India
+</p>
