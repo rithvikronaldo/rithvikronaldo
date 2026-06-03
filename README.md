@@ -6,7 +6,7 @@
 
   #### Building right now
 
-  **[acta](https://github.com/rithvikronaldo/acta)** · multi-currency double-entry ledger in Go/Postgres
+  **[acta](https://github.com/rithvikronaldo/acta)** · multi-currency double-entry ledger in Go/Postgres**.**
   Structural balance invariant, point-in-time queries, and a live sandbox you can stress-test.
   → [acta.rithvikronaldo.dev](https://acta.rithvikronaldo.dev)
 
