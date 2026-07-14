@@ -12,6 +12,7 @@
 
   **[Remit](https://github.com/rithvikronaldo/Remit)** · AI remittance-adjudication engine for dental revenue cycle
   Grounded, cited RAG over a rules-first cascade that interprets EOBs, reconciles to the cent, and fails closed to a human.
+  → [rithvikronaldo-remit.hf.space](https://rithvikronaldo-remit.hf.space)
 
   #### Stack
   `Go` · `TypeScript` · `React` · `PostgreSQL` · `Docker`
